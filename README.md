@@ -1,2 +1,2 @@
 # Cancer-Detection
-An ML model to detect the cancer stage through various parameters with high accuracy
+A machine learning model for precise cancer stage detection using clinical parameters, delivering high accuracy to support early diagnosis and better treatment planning.
